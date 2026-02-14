@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "もう何もいらない未来",
+  "base_artist": "トゲナシトゲアリ",
+  "createdAt": "2026-02-14T13:18:34.720422Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "もう何もいらない未来",
+      "artist": "トゲナシトゲアリ",
+      "has_synced": false,
+      "path": "select/pl_01_もう何もいらない未来_トゲナシトゲアリ.txt"
+    }
+  ]
+}
